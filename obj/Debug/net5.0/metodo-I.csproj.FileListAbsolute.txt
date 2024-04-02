@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\bin\Debug\net5.0\metodo-I.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\bin\Debug\net5.0\metodo-I.deps.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\bin\Debug\net5.0\metodo-I.runtimeconfig.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\bin\Debug\net5.0\metodo-I.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\bin\Debug\net5.0\metodo-I.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\bin\Debug\net5.0\metodo-I.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.AssemblyInfo.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\refint\metodo-I.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\metodo-I.genruntimeconfig.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\curso c#\metodos\metodo-I\obj\Debug\net5.0\ref\metodo-I.dll
